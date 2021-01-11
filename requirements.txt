@@ -1,0 +1,17 @@
+asgiref==3.3.1
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.1.4
+humanize==3.2.0
+idna==2.10
+netaddr==0.8.0
+openvpn-api==0.3.0
+openvpn-status==0.2.1
+pytz==2020.5
+requests==2.25.1
+six==1.15.0
+soupsieve==2.1
+sqlparse==0.4.1
+urllib3==1.26.2
